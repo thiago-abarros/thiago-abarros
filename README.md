@@ -7,28 +7,28 @@ Estudante de Engenharia de Software na Universidade de Pernambuco UPE
 <githubstats align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunBismuth&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true"
+      srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunBismuth&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true" />
+    <img src="github-readme-stats-pi-liard.vercel.app/api?username=BunBismuth&show_icons=true" />
   </picture>     
 </githubstats>
 
 <toplang align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunniBismuth&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunBismuth&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunniBismuth&show_icons=true"
+      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunBismuth&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunniBismuth&show_icons=true" />
+    <img src="github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunBismuth&show_icons=true" />
   </picture>     
 </toplang>
 
