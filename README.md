@@ -1,8 +1,15 @@
-### Hi there 👋
 </details>
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="Bunni's Github Stats" src="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth icons=true&hide border=true" />
-
+<picture>
+<source
+  srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth&show_icons=true" />
+</picture>
 </details>
 <!--
 **BunniBismuth/BunniBismuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
