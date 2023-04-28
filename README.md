@@ -1,7 +1,7 @@
 ### Hi there 👋
 </details>
 <summary>:zap: Github Stats</summary>
-<img align="left" alt="Bunni's Github Stats" src="github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth icons=true&hide border=true" />
+<img align="left" alt="Bunni's Github Stats" src="https://github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth icons=true&hide border=true" />
 
 </details>
 <!--
