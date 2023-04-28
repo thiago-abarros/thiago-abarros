@@ -1,5 +1,9 @@
 ### Hi there 👋
+</details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Bunni's Github Stats" src="github-readme-stats-pi-liard.vercel.app/api?username=BunniBismuth icons=true&hide border=true" />
 
+</details>
 <!--
 **BunniBismuth/BunniBismuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
