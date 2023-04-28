@@ -31,7 +31,7 @@ Estudante de Engenharia de Software na Universidade de Pernambuco UPE
     <img src="github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunBismuth&show_icons=true" />
   </picture>     
 </toplang>
-![snake gif](https://github.com/BunBismuth/BunBismuth/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/BunBismuth/BunBismuth/blob/output/github-contribution-grid-snake.svg)
 <!--
 **BunniBismuth/BunniBismuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
