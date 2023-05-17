@@ -1,7 +1,7 @@
 ## Thiago Barros
 
 Estudante de Engenharia de Software na Universidade de Pernambuco UPE
- - Atualmente aprendendo: Python, Java, Javascript, HTML e CSS
+ - Atualmente aprendendo: Python, Haskell, Java, Javascript, HTML e CSS
  - Tenho interesse em: Ciência de Dados, Desenvolvimento Full stack e Desenvolvimento de Jogos
 
 <githubstats align="center">
