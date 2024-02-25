@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Thiago Barros, a passionate software developer and tech enthusiast. I am currently studying Software Engineering at UPE (4/8) and working as a Data Engineering Intern at Sauter. With more than 2 years of dedicated experience in the field, I've had the privilege to contribute to a diverse array of stimulating projects while continuously expanding my proficiency across various cutting-edge technologies.
+I'm Thiago Barros, a passionate software developer and tech enthusiast. I am currently studying Software Engineering at UPE (4/8) and working as a Data Engineer Intern at Sauter. With more than 2 years of dedicated experience in the field, I've had the privilege to contribute to a diverse array of stimulating projects while continuously expanding my proficiency across various cutting-edge technologies.
 
 
 # 🚀 Expertise
