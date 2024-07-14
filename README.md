@@ -1,13 +1,13 @@
 # 👋 Hi there
 
-I'm Thiago Barros, a passionate software developer and tech enthusiast. I am currently studying Software Engineering at UPE (4/8) and working as a Data Engineer Intern at Sauter. With more than 2 years of dedicated experience in the field, I've had the privilege to contribute to a diverse array of stimulating projects while continuously expanding my proficiency across various cutting-edge technologies.
+I'm Thiago Barros, a passionate software developer and tech enthusiast. I am currently studying Software Engineering at UPE (5/8) and working as a Data Engineer at Sauter. With more than 2 years of dedicated experience in the field, I've had the privilege to contribute to a diverse array of stimulating projects while continuously expanding my proficiency across various cutting-edge technologies.
 
 
 # 🚀 Expertise
 
 Passionate about building robust and scalable digital infrastructures and developing ML solutions, I specialize in backend development and data engineering focused on MLOps and Machine Learning, integrating advanced technologies with efficient and good coding practices. With more than two years committed to refining my expertise in backend and data engineering technologies, I've spearheaded projects, formulated architectural strategies, and maintained optimal performance and security standards across diverse systems and applications.
 
-I have the [Google Cloud Professional Data Engineer](https://www.credly.com/badges/bc312863-6e2a-4346-b05a-6338e1ce7a44/public_url) certificate and I'm currently studying to obtain the Google Cloud Professional Cloud Architect certification, aiming to specialize in MLOps and ML Engineering.
+I have the [Google Cloud Professional Data Engineer](https://www.credly.com/badges/bc312863-6e2a-4346-b05a-6338e1ce7a44/public_url) certificate and I'm currently studying to obtain the Google Cloud Professional Machine Learning Engineer certification, aiming to specialize in MLOps and ML Engineering.
 
 # 💻 Tech Stack
 
