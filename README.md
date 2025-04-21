@@ -1,36 +1,68 @@
-# 👋 Hi there
+<!--
+  =========================
+    Thiago Barros · README
+  =========================
+-->
 
-I'm Thiago Barros, a passionate software developer and tech enthusiast. I am currently studying Software Engineering at UPE (7/8) and working as a Data Engineer at Sauter. With more than 2 years of dedicated experience in the field, I've had the privilege to contribute to a diverse array of stimulating projects while continuously expanding my proficiency across various cutting-edge technologies.
+# 👋 Hi there, I’m Thiago Barros
 
+**Software Engineer | Data & ML Engineer | GenAI Specialist | MLOps Enthusiast**
 
-# 🚀 Expertise
+📍 Garanhuns, Pernambuco, Brazil  
+🎓 B.S. in Software Engineering @ UPE  
+📫 Contact: thiago.barros.empr@gmail.com  
 
-Passionate about building robust and scalable digital infrastructures and developing ML solutions, I specialize in backend development and data engineering focused on MLOps and Machine Learning, integrating advanced technologies with efficient and good coding practices. With more than two years committed to refining my expertise in backend and data engineering technologies, I've spearheaded projects, formulated architectural strategies, and maintained optimal performance and security standards across diverse systems and applications.
+## 🚀 About Me
+
+I’m a Software Engineer with 3+ years of experience in MLOps, Data Engineering, and DevOps.  
+Currently, I work as a **ML/IA Engineer @ Sauter Digital** and consult independently on ML/AI, FinOps, and scalable infrastructure projects in both Google Cloud and AWS.
+
+- 🔥 Reduced **55.6% in infrastructure costs** on AWS projects through automated pipelines, serverless functions and infrastructure cleaning  
+- ⚙️ Built a GenAI SDK that boosted team productivity by **35%**  
+- 🤖 Led Retrieval‑Augmented Generation (RAG) systems that increased team efficiency by **20%**  
+- 🏆 Recognized by Google as a GenAI Specialist with a [**Google Cloud Success Project**](https://cloud.google.com/customers/intl/pt-br/nerdmonster)
 
 I have the [Google Cloud Professional Data Engineer](https://www.credly.com/badges/bc312863-6e2a-4346-b05a-6338e1ce7a44/public_url) certificate and I'm currently studying to obtain the Google Cloud Professional Machine Learning Engineer certification, aiming to specialize in MLOps and ML Engineering.
 
-# 💻 Tech Stack
+## 🔭 My Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<div align="center">
+  <!-- Frontend & Backend -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- Frameworks & ML -->
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-835FCC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</div>
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-abarros)
+## ✨ Highlights & Certifications
+
+- 🥇 [**Google Cloud Success Project**](https://cloud.google.com/customers/intl/pt-br/nerdmonster) in Generative AI & Computer Vision  
+- 🎓 [**Google Cloud Professional Data Engineer**](https://www.credly.com/badges/bc312863-6e2a-4346-b05a-6338e1ce7a44/public_url)  
+- 🔍 Currently studying for **Google Cloud Professional Machine Learning Engineer** certification  
+- 🏆 1st Place in PET Data Analytics & Machine Learning  
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/thiago-abarros" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/thiago-abarros" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+*Built with ❤️ by Thiago Barros*
