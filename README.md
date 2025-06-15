@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 I’m a Software Engineer with 3+ years of experience in MLOps, Data Engineering, and DevOps.  
-Currently, I work as a **ML/IA Engineer @ Sauter Digital** and consult independently on ML/AI, FinOps, and scalable infrastructure projects in both Google Cloud and AWS.
+Currently, I work as a **Data Scientist @ Sunndex** and consult independently on ML/AI, FinOps, and scalable infrastructure projects in both Google Cloud and AWS.
 
 - 🔥 Reduced **55.6% in infrastructure costs** on AWS projects through automated pipelines, serverless functions and infrastructure cleaning  
 - ⚙️ Built a GenAI SDK that boosted team productivity by **35%**  
